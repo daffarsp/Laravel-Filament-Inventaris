@@ -16,19 +16,6 @@ Inventory Management System built with **Laravel 12** and **Filament 5** featuri
 
 </div>
 
-<div align="center">
-
-# 📦 Inventory Management System
-
-![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-5-F59E0B?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-3-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Modern Inventory Management System built with Laravel 12 & Filament 5.
-
-</div>
 
 ---
 
