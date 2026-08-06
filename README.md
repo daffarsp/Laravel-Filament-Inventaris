@@ -230,7 +230,8 @@ Project ini dibuat untuk mempelajari implementasi:
 
 ## 📸 Preview
 
-Tambahkan screenshot dashboard di sini.
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 162407" src="https://github.com/user-attachments/assets/0268f54f-9c5a-42f5-a5bc-a999b1737bb6" />
+
 
 ---
 
